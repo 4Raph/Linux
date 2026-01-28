@@ -28,7 +28,7 @@
     - comme CIDR /20 il y a 2^12 = 4096 ip disponibles si on enlève les 2 ip déjà utilisé, il reste 4094 ip
     - ``10.33.64.1`` -> ``10.33.79.254``
 
-## 3
+## 3. Manipulations d'autres outils/protocoles côté client
 
 ![image 3](image/image3.png)
 - L'adresse ip du serveur DHCP est ``10.33.79.254``
