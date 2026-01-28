@@ -52,4 +52,6 @@
 
 ![image 8](image/image8.png)
 
-- La recherche inversé nous donne des nom de domaine
+- La recherche inversé nous donne des noms de domaine
+
+- Pour 78.78.21.21 : ça ressemble à un domaine pour des opérateurs en ligne
