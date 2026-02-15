@@ -1,7 +1,7 @@
 # TP2
 ## 1. Affichage d'informations sur la pile TCP/IP locale
 
-![image 1](image/image.png)
+![image 1](image/tp2/image.png)
 
 - Interface wifi : 
     - adresse MAC : ``74-4C-A1-98-B8-79``
@@ -15,7 +15,7 @@
 
 - En graphique (GUI : Graphical User Interface):
 
-    ![image 2](image/image2.png)
+    ![image 2](image/tp2/image2.png)
 
  - à quoi sert la gateway dans le réseau d'Ingésup ?
     - Il sert à pouvoir sortir du réseau wifi étudiant, pour par exemple aller sur internet
@@ -30,27 +30,27 @@
 
 ## 3. Manipulations d'autres outils/protocoles côté client
 
-![image 3](image/image3.png)
+![image 3](image/tp2/image3.png)
 - L'adresse ip du serveur DHCP est ``10.33.79.254``
 
-![image 4](image/image4.png)
-![image 5](image/image5.png)
+![image 4](image/tp2/image4.png)
+![image 5](image/tp2/image5.png)
 
 - Pour redemander une adresse ip au serveur on utilise :
     - ``ipconfig /release`` et ``ipconfig /renew``
 
 ### Serveur DNS
 
-![image 6](image/image6.png)
+![image 6](image/tp2/image6.png)
 
 - Le serveur DNS est le 8.8.8.8
 
-![image 7](image/image7.png)
+![image 7](image/tp2/image7.png)
 
 - On peut voir que ynov.com a le même serveur DNS que google.com 
 - On peut voir toute les adresses ip du réseau
 
-![image 8](image/image8.png)
+![image 8](image/tp2/image8.png)
 
 - La recherche inversé nous donne des noms de domaine
 
