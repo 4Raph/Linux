@@ -57,3 +57,6 @@
 - Pour 78.78.21.21 : ça ressemble à un domaine pour des opérateurs en ligne
 
 - 92.16.54.88 : quand on cherche as13285 on tombe sur des site pour des systèmes d'informations
+
+## II.Exploration en locale en duo
+
